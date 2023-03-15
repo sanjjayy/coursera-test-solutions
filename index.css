@@ -1,4 +1,4 @@
-* {
+	* {
   box-sizing: border-box;
 }
 #box{
@@ -19,16 +19,18 @@
 }
 #box3{
     background-color: black;
-    color:#403e3e ;
+    color:#e6efef ;
+    font-weight: lighter;
+
 }
 .subhead{
     color: #403e3e;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: arial, sans-serif;
     font-size: 13px;
 }
 .section1{
     color: #403e3e;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: arial, sans-serif;
     font-size: 13px;
     float: left;
     
@@ -36,7 +38,7 @@
 .section2{
 
     color: #403e3e;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: arial, sans-serif;
     font-size: 13px;
     float: left;
     
@@ -44,7 +46,7 @@
 .section3{
 
     color: #403e3e;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: arial, sans-serif;
     font-size: 13px;
     float: left;
     
@@ -54,6 +56,8 @@
 body{
     
     background-color: #e6e3e3;
+    font-family: arial, sans-serif;
+
 }
 
 @media(min-width: 992px){
@@ -187,5 +191,3 @@ body{
   }
 
 }
-
-
