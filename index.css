@@ -1,4 +1,4 @@
-	* {
+* {
   box-sizing: border-box;
 }
 #box{
@@ -11,25 +11,29 @@
     background-color: #e6efef;
     margin: 10.8px;
 }
-h2{
-	font-weight: lighter;}
 #box1{
-    text-align: center;
+    text-align: left;
     border: 1px solid black;
     margin-bottom: 10px;
     padding: 10px;
+    width: 100px;
 }
 #box3{
     background-color: black;
     color:#e6efef ;
-    font-weight: lighter;
+    font-weight: l;
 
 }
 .subhead{
     color: #403e3e;
     font-family: arial, sans-serif;
     font-size: 13px;
+    position: relative;
+    left: 260px;
 }
+
+
+
 .section1{
     color: #403e3e;
     font-family: arial, sans-serif;
