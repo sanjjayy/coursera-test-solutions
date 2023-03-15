@@ -11,6 +11,8 @@
     background-color: #e6efef;
     margin: 10.8px;
 }
+h2{
+	font-weight: lighter;}
 #box1{
     text-align: center;
     border: 1px solid black;
