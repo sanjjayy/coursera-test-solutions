@@ -1,11 +1,11 @@
-* {
+	* {
   box-sizing: border-box;
 }
 #box{
     padding: 10px;
     padding-top: 0px;
     border: 2px solid black;
-    width: 30%;
+    width: 375px;
     margin-top: 50px;
     overflow: hidden;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);
@@ -198,6 +198,13 @@ body{
   .col-sm-12 {
     width: 100%;
   }
-
+.h3{
+  text-align: center;
 }
-
+.h2{
+  text-align: center;
+}
+.h1{
+  text-align: center;
+}
+}
