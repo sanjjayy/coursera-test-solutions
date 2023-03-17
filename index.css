@@ -3,20 +3,24 @@
 }
 #box{
     padding: 10px;
-    border: 1px solid black;
-    width: 378px;
+    padding-top: 0px;
+    border: 2px solid black;
+    width: 30%;
     margin-top: 50px;
-    overflow: auto;
+    overflow: hidden;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);
-    background-color: #e6efef;
+    background-color: lightcoral;
     margin: 10.8px;
 }
 #box1{
+    background-color: skyblue;
     text-align: left;
     border: 1px solid black;
     margin-bottom: 10px;
     padding: 10px;
     width: 100px;
+    position: relative;
+    left: 266.9px;
 }
 #box3{
     background-color: black;
@@ -28,8 +32,7 @@
     color: #403e3e;
     font-family: arial, sans-serif;
     font-size: 13px;
-    position: relative;
-    left: 260px;
+    
 }
 
 
@@ -197,3 +200,4 @@ body{
   }
 
 }
+
